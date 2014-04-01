@@ -1,0 +1,6 @@
+name = Mywebform: handle webform
+description = Handle all webform tasks 
+core = 7.x
+
+package = Webform
+dependencies[] = webform
